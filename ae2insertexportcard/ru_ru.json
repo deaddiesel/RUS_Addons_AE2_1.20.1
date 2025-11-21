@@ -1,0 +1,7 @@
+{
+	"itemGroup.ae2insertexportcard" : "Прикладная энергетика 2: Карты",
+	"item.ae2insertexportcard.insert_card": "Карта вставки",
+	"item.ae2insertexportcard.export_card": "Карта экспорта",
+	"gui.ae2insertexportcard.whitelist": "Белый список",
+	"gui.ae2insertexportcard.blacklist": "Чёрный список"
+}
