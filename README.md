@@ -7,5 +7,6 @@
 * Добавлен перевод мода AE2: Expattern Provider 1.20.1 + перевод для руководства GuideME
 * Добавлен перевод мода AE2: ME Requester 1.20.1
 * Добавлен перевод мода AE2: Applied Flux 1.20.1
+* Добавлен перевод мода AE2: Applied Botanics 1.20.1
 
 Переведено с использованием Google и Yandex Translate своими ручками.
