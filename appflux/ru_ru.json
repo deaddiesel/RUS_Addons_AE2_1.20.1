@@ -41,7 +41,7 @@
   "item.appflux.sky_harden_insulating_resin": "Слиток небесной изоляционной резины",
   "item.appflux.energy_processor": "Энергетический процессор",
   "item.appflux.printed_energy_processor": "Печатная энергетическая схема",
-  "item.appflux.energy_processor_press": "Энергетическая печать для вырезателя",
+  "item.appflux.energy_processor_press": "Энергетическая печать для высекателя",
   "item.appflux.part_flux_accessor": "Флюсовый приёмник",
   "item.appflux.induction_card": "Индукционная карта",
   "item.appflux.induction_card.tooltip": "Разрешает устройствам мода «Прикладная энергетика 2» принимать или отправлять энергию.",
